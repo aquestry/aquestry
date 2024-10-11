@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aquestry (Anton K.)</h1>
-<h3 align="center">I am a student in Germany and I have a hobby for coding some things.</h3>
+<h3 align="center">I am a student in Germany and I have a hobby for coding</h3>
 
-- 🔭 I’m currently working on [Voasis](https://voasis.de/)
+- 🔭 I’m currently working on [Nebula](https://voasis.de/)
 
 - 🌱 I’m currently learning **Godot**
-- 😁 My small Website [Aquestry.dev](https://aquestry.dev/)
-- 📫 How to reach me **contact@aquestry.dev**
+- 😁 My personal Website [Aquestry.dev](https://aquestry.dev/)
+- 📫 Mail me at **contact@aquestry.dev**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Discord:</h3>
 <p align="left">
 <a href="https://discord.gg/Aquestry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Aquestry" height="30" width="40" /></a>
 </p>
