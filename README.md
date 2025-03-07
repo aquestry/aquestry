@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aquestry (Anton)</h1>
 <h3 align="center">I am a student in Germany with a hobby for coding.</h3>
 
-- 🔭 I’m currently working on [Nebula](https://voasis.de/)
+- 🔭 I’m currently working on [Nebula](https://voasis.de/) & [Starfield](https://github.com/aquestry/starfield)
 - 🌱 I’m currently learning the game engine [Godot](https://godotengine.org/)
 - 😁 My profile card Website [Aquestry.dev](https://aquestry.dev/)
 - 📫 Contact me on discord or via [email](contact@aquestry.dev) 
