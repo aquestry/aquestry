@@ -1,5 +1,5 @@
 # Hi 👋, I'm Aquestry
- ## I am a student in Germany with a hobby for coding.
+## I am a student in Germany with a hobby for coding.
 
 - I’m currently learning **Rust**
 
